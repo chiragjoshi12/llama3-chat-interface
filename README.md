@@ -4,7 +4,7 @@ This repository contains a Streamlit-based chat interface utilizing the Llama 3.
 
 ![Demo Image](img/demo.png)
 
-***You can try the live [application here](http://app.com).***
+***You can try the live [application here](https://llama3-chat-interface.streamlit.app/).***
 
 
 ## Features
